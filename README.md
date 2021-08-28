@@ -1,6 +1,6 @@
 # Ping-Pong-js
 
-https://github.com/JafarAkhondali/Ping-Pong-js.git
+https://github.com/Rishabhmodii/Ping-Pong-js.git
 
 Simple two player Ping Pong game made with pure Javascript and CSS
 _____
